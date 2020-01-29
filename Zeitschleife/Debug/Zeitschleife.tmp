@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\Debug\Zeitschleife.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Zeitschleife.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Zeitschleife.map</FILE>
+  <FILE>Zeitschleife.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>15</LINE></init>
+  <endlos><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>23</LINE></endlos>
+  <warten_auf_taste_druecken><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>25</LINE></warten_auf_taste_druecken>
+  <aussen1><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>32</LINE></aussen1>
+  <innen1><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>34</LINE></innen1>
+  <warten_auf_taste_loslassen><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>47</LINE></warten_auf_taste_loslassen>
+  <aussen2><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>54</LINE></aussen2>
+  <innen2><FILE>C:\Users\rene\Documents\Schule J1\Atmel\Zeitschleife\Zeitschleife\Zeitschleife\main.asm</FILE><LINE>56</LINE></innen2>
+ </LABELS>
+</ASSEMBLER_INFO>
